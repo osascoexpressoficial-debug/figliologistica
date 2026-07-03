@@ -14,3 +14,5 @@ Versao enxuta para GitHub Pages, preparada como pagina de venda para novo contra
 - Pagina reduzida para decisao comercial: menos texto repetido e preco mais visivel.
 - Detalhes operacionais mantidos no contrato e em acordeoes fechados.
 - Sem referencia a cliente anterior na proposta final.
+
+- Botao de leitura do contrato removido do topo/hero da pagina de venda.
